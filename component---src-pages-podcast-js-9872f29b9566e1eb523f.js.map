@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/podcast.js"],"names":["Podcast"],"mappings":"2FAAA,wEAEe,SAASA,IACvB,OAAO","file":"component---src-pages-podcast-js-9872f29b9566e1eb523f.js","sourcesContent":["import React from \"react\"\n\nexport default function Podcast() {\n\treturn <div>Podcast!</div>\n}\n"],"sourceRoot":""}
