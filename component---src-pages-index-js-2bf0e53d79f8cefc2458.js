@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return c}));var r=e("q1tI"),u=e.n(r);function c(){return u.a.createElement("div",null,"Carlos Mtz")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-2bf0e53d79f8cefc2458.js.map
