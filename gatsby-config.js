@@ -6,7 +6,7 @@
 
 module.exports = {
   /* Your site config here */
-  pathPrefix : '/carlosmtz.dev',
+  // pathPrefix : '/carlosmtz.dev',
   plugins: [
     {
       resolve: `gatsby-plugin-google-analytics`,
