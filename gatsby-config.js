@@ -6,8 +6,11 @@
 
 module.exports = {
   /* Your site config here */
-  // pathPrefix : '/carlosmtz.dev',
+  siteMetadata: {
+    siteUrl: 'https://carlosmtz.dev/'
+  },
   plugins: [
+    'gatsby-plugin-cname',
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
